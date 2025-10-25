@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("org.jetbrains.kotlin.plugin.compose") version "1.9.20" // Updated to latest assumed version
+    id("org.jetbrains.kotlin.plugin.compose") version "1.9.20"
 }
 
 android {
@@ -45,7 +45,7 @@ android {
     }
     
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.9.20" // Match with plugin version
+        kotlinCompilerExtensionVersion = "1.9.20"
     }
     
     packaging {
