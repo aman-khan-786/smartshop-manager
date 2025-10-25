@@ -10,7 +10,7 @@ buildscript {
         mavenCentral()
         maven { url = uri("https://plugins.gradle.org/m2/") }
         maven { url = uri("https://maven.google.com") }
-        maven { url = uri("https://jitpack.io") } // Extra repo for any custom plugins
+        maven { url = uri("https://jitpack.io") }
     }
     dependencies {
         classpath("com.android.tools.build:gradle:8.2.0")
