@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application") version "8.2.0" apply false
     id("org.jetbrains.kotlin.android") version "1.9.20" apply false
-    id("org.jetbrains.kotlin.plugin.compose") version "1.9.20" apply false // Specific version
+    id("org.jetbrains.kotlin.plugin.compose") version "1.9.20" apply false
 }
 
 buildscript {
@@ -9,7 +9,8 @@ buildscript {
         google()
         mavenCentral()
         maven { url = uri("https://plugins.gradle.org/m2/") }
-        maven { url = uri("https://maven.google.com") } // Extra repo for Compose
+        maven { url = uri("https://maven.google.com") }
+        maven { url = uri("https://jitpack.io") } // Extra repo for any custom plugins
     }
     dependencies {
         classpath("com.android.tools.build:gradle:8.2.0")
@@ -23,6 +24,7 @@ allprojects {
         mavenCentral()
         maven { url = uri("https://plugins.gradle.org/m2/") }
         maven { url = uri("https://maven.google.com") }
+        maven { url = uri("https://jitpack.io") }
     }
 }
 
