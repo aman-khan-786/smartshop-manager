@@ -29,10 +29,11 @@ class SyncWorker(
             // 4. Sync user data
             
             LogUtils.i("Sync completed successfully")
-            Result.success()
+            return Result.success() // <--- YAHAN 'return' ADD KIYA GAYA HAI
+            
         } catch (e: Exception) {
             LogUtils.e("Sync failed", e)
-            Result.retry()
+            return Result.retry() // Yahan return pehle se sahi hai
         }
     }
 }
