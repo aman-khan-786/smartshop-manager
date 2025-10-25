@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="teal_500">#21808D</color>
+    <color name="teal_600">#1D7480</color>
+    <color name="teal_700">#1A6873</color>
+    
+    <!-- Secondary Colors -->
+    <color name="brown_600">#5E5240</color>
+    
+    <!-- Background Colors -->
+    <color name="cream_50">#FCFCF9</color>
+    <color name="cream_100">#FFFFFD</color>
+    
+    <!-- Text Colors -->
+    <color name="slate_900">#13343B</color>
+    <color name="slate_500">#626C71</color>
+    <color name="gray_200">#F5F5F5</color>
+    
+    <!-- Status Colors -->
+    <color name="error">#C0152F</color>
+    <color name="success">#21808D</color>
+    <color name="warning">#A84B2F</color>
+    
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

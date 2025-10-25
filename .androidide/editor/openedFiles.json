@@ -1,0 +1,80 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Premium Hub/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2665,
+          "line": 86
+        },
+        "start": {
+          "column": 1,
+          "index": 2665,
+          "line": 86
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Premium Hub/app/src/main/kotlin/com/premiumhub/utils/ExportUtils.kt",
+      "selection": {
+        "end": {
+          "column": 89,
+          "index": 218,
+          "line": 8
+        },
+        "start": {
+          "column": 89,
+          "index": 218,
+          "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Premium Hub/app/src/main/kotlin/com/premiumhub/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 870,
+          "line": 28
+        },
+        "start": {
+          "column": 1,
+          "index": 870,
+          "line": 28
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Premium Hub/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 210,
+          "line": 7
+        },
+        "start": {
+          "column": 1,
+          "index": 210,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Premium Hub/app/src/main/kotlin/com/premiumhub/SmartShopApp.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 160,
+          "line": 9
+        },
+        "start": {
+          "column": 1,
+          "index": 160,
+          "line": 9
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Premium Hub/app/src/main/kotlin/com/premiumhub/SmartShopApp.kt"
+}
